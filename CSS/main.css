@@ -1,0 +1,17 @@
+body {
+    background-color: #d2d4d2;
+    font-size: 50px;
+}
+
+table {
+    width: 100px;
+}
+
+th {
+    font-weight: bold;
+    border: 1pX solid #000;
+
+}
+td {
+    border: 1px solid #000;
+}
