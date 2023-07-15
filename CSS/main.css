@@ -9,9 +9,9 @@ table {
 
 th {
     font-weight: bold;
-    border: 1pX solid #000;
+    border: 2pX solid #000;
 
 }
 td {
-    border: 1px solid #000;
+    border: 2px solid #000;
 }
