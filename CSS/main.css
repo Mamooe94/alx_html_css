@@ -13,5 +13,6 @@ th {
 
 }
 td {
-    border: 2px solid #000;
+    border: 1px solid #000;
+box-shadow: #000;
 }
